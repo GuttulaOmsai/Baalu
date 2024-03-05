@@ -552,10 +552,6 @@ a:focus {
 
 }
 
-.about .container-fluid .about-content a {
-    margin-left: 140px;
-}
-
 @media (max-width: 991.98px) {
     .about .about-content {
         padding: 45px 15px 0 15px;
