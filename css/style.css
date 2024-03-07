@@ -216,6 +216,18 @@ a:focus {
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
         color: #EF233C;
     }
+        .navbar-light .navbar-nav .nav-links,
+    .navbar-light .navbar-nav .nav-links:focus {
+        
+        color: #ffffff;
+       
+    }
+    
+    .navbar-light.nav-sticky .navbar-nav .nav-links,
+    .navbar-light.nav-sticky .navbar-nav .nav-links:focus {
+        color: #414141;
+    }
+    
 }
 
 @media (max-width: 991.98px) {   
