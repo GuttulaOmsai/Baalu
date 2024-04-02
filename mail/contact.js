@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Function to submit the form and redirect to index.html
     function submitForm() {
         // Redirect to index.html
-        window.location.href = "https://start.spring.io/";
+        window.location.href = "https://guttulaomsai.github.io/thankyou/";
     }
 
     // Function to display error messages
