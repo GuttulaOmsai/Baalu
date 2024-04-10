@@ -20,7 +20,7 @@ a{
 }
 
 .contact_icon {
-  background-color: #42db87;
+  background-color: #32CD32;
   color: #fff;
   width: 60px;
   height: 60px;
@@ -33,7 +33,7 @@ a{
   justify-content: center;
   transform: translatey(0px);
   animation: pulse 1.5s infinite;
-  box-shadow: 0 0 0 0 #42db87;
+  box-shadow: 0 0 0 0 #32CD32 ;
   -webkit-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
   -moz-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
   -ms-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
