@@ -574,7 +574,7 @@ background-color:#32CD32 ;
 /*******************************/
 .experience {
     position: relative;
-    padding: 45px 0 15px 0;
+    padding: 15px 0 15px 0;
 }
 
 .experience .timeline {
@@ -751,7 +751,7 @@ background-color:#32CD32 ;
 .service {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: 15px 0 15px 0;
 }
 
 .service .service-item {
@@ -1115,7 +1115,7 @@ background-color:#32CD32 ;
 .team {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: 15px 0 15px 0;
 }
 
 .team .team-item {
